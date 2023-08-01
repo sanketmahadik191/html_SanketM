@@ -1,57 +1,19 @@
 # html_SanketM
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume_Assignment</title>
-</head>
-<body>
-    <h1>Sanket Mahadik</h1>
-    <p>Student at Geekster</p>
-    <div>
-        <a href="#">Linkedin</a>
-        <a href="#">Github</a>
-    </div><hr>
-    <h2>Experience</h2>
-    <h3>Full Stack Developer</h3>
-    <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Possimus, ullam! Maxime officiis consequuntur libero eaque reprehenderit quisquam nam ab vitae totam id commodi laborum enim, sint ea odit quasi soluta!
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident iusto ut praesentium modi. Incidunt atque voluptatem, dignissimos officiis reprehenderit est!
-    </p><hr>
-    <h3>Student at Geekster</h3>
-    <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora cum inventore aliquam, nulla eos dignissimos ipsum voluptas id,
-        dolores suscipit totam nostrum perferendis alias, expedita quaerat distinctio asperiores! Nobis, aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Facere ipsa ab qui autem nesciunt vel consequatur non totam, temporibus excepturi voluptatem iure impedit ut repellendus earum necessitatibus nemo eligendi,
-        animi debitis reiciendis suscipit. Unde iure obcaecati dolores, numquam quibusdam rerum facilis a quam quos ad ullam consectetur reiciendis deserunt similique.
-    </p><hr>
-    <h2>Skills</h2>
-    <ul>
-        <li>Java</li>
-        <li>Html</li></li>
-        <li>DSA</li>
-    </ul><hr>
-    <h2>Hobbies</h2>
-    <ul>
-        <li>Chess</li>
-        <li>Traveling</li>
-    </ul><hr>
-    <h2>Projects</h2>
-    <h4>Project-1</h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, provident? Voluptatem quos dignissimos velit quia,
-        assumenda molestiae hic, maiores, corporis a tempore perferendis repellendus quod modi non quo ipsam laboriosam
-        consectetur voluptates quibusdam facilis nisi unde libero? Pariatur, recusandae aspernatur.
-    </p>
-    <h4>Project-2</h4>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, provident? Voluptatem quos dignissimos velit quia,
-        assumenda molestiae hic, maiores, corporis a tempore perferendis repellendus quod modi non quo ipsam laboriosam
-        consectetur voluptates quibusdam facilis nisi unde libero? Pariatur, recusandae aspernatur.
-    </p>
-    <hr>
-          Contact Details<br> 
-          Email: sanketmahadik1999@gamil.com<br>
-          Mobile no.: 9604386369
-</body>
-</html>
+#Introduction -
+Assignment to create resume using html
+
+##Screenshot with tags and uses
+#head
+![image](https://github.com/sanketmahadik191/html_SanketM/assets/125791466/253709f0-4e21-4157-8031-dfaed5fd9ddc)
+ head tag - for heading "resume assignment"
+ 
+#body
+ ![image](https://github.com/sanketmahadik191/html_SanketM/assets/125791466/036cc40b-f4f5-4abf-851c-d3261dedf1fc)
+
+  heading tags - for heading with different sizes 
+  
+  paragragh atg -for paragraph writing
+  
+  ul - for unorded list in code 
+  
+  anchor tag -to create for users can interact with it and visit the link's destination
